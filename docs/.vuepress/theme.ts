@@ -52,7 +52,7 @@ export default hopeTheme({
     },
   },
 
-  navbarAutoHide: "always",
+  navbarAutoHide: "mobile",
   
   plugins: {
     blog: {
