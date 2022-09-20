@@ -4,7 +4,7 @@ import theme from "./theme.js";
 export default defineUserConfig({
   base: "/",
 
-  dest: "./dist",
+  dest: "docs/.vuepress/dist",
   
   lang: "zh-CN",
   
